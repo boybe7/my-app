@@ -10,3 +10,4 @@ xamarin train
 
 ##Developed by
 * [Boybe](https://www.facebook.com/BoyBe7)
+* [Rainny](https://www.facebook.com/cokkatail)
